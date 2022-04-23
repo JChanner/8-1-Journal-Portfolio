@@ -1,4 +1,4 @@
-# 8-1-Journal-Portfolio
+# Journal-Portfolio
 
 The Corner Grocer needs a program that analyzes the text records they generate throughout the day. These records list items purchased in chronological order from the time the store opens to the time it closes. They are interested in rearranging their produce section and need to know how often items are purchased so they can create the most effective layout for their customers. The program that the Corner Grocer is asking to create should address the following three requirements for a given text-based input file that contains a list of purchased items for a single day:
 
